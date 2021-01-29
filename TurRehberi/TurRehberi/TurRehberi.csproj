@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{79E5165F-E72E-4AF5-A446-F55F8B6A083E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TurRehberi</RootNamespace>
+    <AssemblyName>TurRehberi</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminGiriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminGiriş.Designer.cs">
+      <DependentUpon>AdminGiriş.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adminİçin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adminİçin.Designer.cs">
+      <DependentUpon>Adminİçin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboboxItem.cs" />
+    <Compile Include="Connection.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kaydol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kaydol.Designer.cs">
+      <DependentUpon>Kaydol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullanıcıGiriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullanıcıGiriş.Designer.cs">
+      <DependentUpon>KullanıcıGiriş.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanıcıİçin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanıcıİçin.Designer.cs">
+      <DependentUpon>Kullanıcıİçin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SifremiUnuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SifremiUnuttum.Designer.cs">
+      <DependentUpon>SifremiUnuttum.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminGiriş.resx">
+      <DependentUpon>AdminGiriş.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adminİçin.resx">
+      <DependentUpon>Adminİçin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kaydol.resx">
+      <DependentUpon>Kaydol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullanıcıGiriş.resx">
+      <DependentUpon>KullanıcıGiriş.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanıcıİçin.resx">
+      <DependentUpon>Kullanıcıİçin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SifremiUnuttum.resx">
+      <DependentUpon>SifremiUnuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kazan.lnk" />
+    <None Include="Resources\TR2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TR3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TR5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TR6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TR8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TR9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Amsterdam.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ankara.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Antalya.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Antwerp.jpeg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Artvin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Barselona.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Basel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bern.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bilbao.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bordeux.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Boston.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brasilia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brugge.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brüksel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\California.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chicago.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Çanakkale.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eindhoven.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eskişehir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fortoleza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gent.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\İbiza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\İstanbul.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\İzmir.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kayseri.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Konya.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Liverpool.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lizbon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Londra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LosAngeles.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lyon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Madeira.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Madrid.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manchester.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Marsilya.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Melbourne.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Miami.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Moskova.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Muğla.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Napoli.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewYork.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nice.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Oxford.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paris.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pisa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Porto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RioDeJaneiro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Roma.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rotterdam.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salvador.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaoPaulo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sevilla.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sivas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\St.Petersg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sydney.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Şanlıurfa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trabzon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Valencia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Washington.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zürih.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cologne.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hamburg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Munich.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Berlin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Venedik.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kazan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rize.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,67 @@
+c:\users\mahmut enes aydın\documents\visual studio 2015\Projects\TurRehberi\TurRehberi\bin\Debug\TurRehberi.exe.config
+C:\Users\Mahmut Enes Aydın\documents\visual studio 2015\Projects\TurRehberi\TurRehberi\obj\Debug\TurRehberi.csprojResolveAssemblyReference.cache
+C:\Users\Mahmut Enes Aydın\documents\visual studio 2015\Projects\TurRehberi\TurRehberi\obj\Debug\TurRehberi.AdminGiriş.resources
+C:\Users\Mahmut Enes Aydın\documents\visual studio 2015\Projects\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Adminİçin.resources
+C:\Users\Mahmut Enes Aydın\documents\visual studio 2015\Projects\TurRehberi\TurRehberi\obj\Debug\TurRehberi.frmTurRehberi.resources
+C:\Users\Mahmut Enes Aydın\documents\visual studio 2015\Projects\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Properties.Resources.resources
+C:\Users\Mahmut Enes Aydın\documents\visual studio 2015\Projects\TurRehberi\TurRehberi\obj\Debug\TurRehberi.csproj.GenerateResource.Cache
+C:\Users\Mahmut Enes Aydın\documents\visual studio 2015\Projects\TurRehberi\TurRehberi\bin\Debug\TurRehberi.exe
+C:\Users\Mahmut Enes Aydın\documents\visual studio 2015\Projects\TurRehberi\TurRehberi\bin\Debug\TurRehberi.pdb
+C:\Users\Mahmut Enes Aydın\documents\visual studio 2015\Projects\TurRehberi\TurRehberi\obj\Debug\TurRehberi.exe
+C:\Users\Mahmut Enes Aydın\documents\visual studio 2015\Projects\TurRehberi\TurRehberi\obj\Debug\TurRehberi.pdb
+C:\Users\Mahmut Enes Aydın\documents\visual studio 2015\Projects\TurRehberi\TurRehberi\obj\Debug\TurRehberi.KullanıcıGiriş.resources
+C:\Users\Mahmut Enes Aydın\documents\visual studio 2015\Projects\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Kullanıcıİçin.resources
+C:\Users\Mahmut Enes Aydın\documents\visual studio 2015\Projects\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Kaydol.resources
+C:\Users\Mahmut Enes Aydın\documents\visual studio 2015\Projects\TurRehberi\TurRehberi\obj\Debug\TurRehberi.SifremiUnuttum.resources
+F:\PROJE\TurRehberi\TurRehberi\bin\Debug\TurRehberi.exe.config
+F:\PROJE\TurRehberi\TurRehberi\bin\Debug\TurRehberi.exe
+F:\PROJE\TurRehberi\TurRehberi\bin\Debug\TurRehberi.pdb
+F:\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.csprojAssemblyReference.cache
+F:\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.AdminGiriş.resources
+F:\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Adminİçin.resources
+F:\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.frmTurRehberi.resources
+F:\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Kaydol.resources
+F:\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.KullanıcıGiriş.resources
+F:\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Kullanıcıİçin.resources
+F:\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Properties.Resources.resources
+F:\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.SifremiUnuttum.resources
+F:\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.csproj.GenerateResource.cache
+F:\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.csproj.CoreCompileInputs.cache
+F:\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.exe
+F:\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.pdb
+C:\Users\Mahmut Enes Aydın\Desktop\Yeni klasör\PROJE\TurRehberi\TurRehberi\bin\Debug\TurRehberi.exe.config
+C:\Users\Mahmut Enes Aydın\Desktop\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.exe
+C:\Users\Mahmut Enes Aydın\Desktop\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.pdb
+C:\Users\Mahmut Enes Aydın\Desktop\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.csprojResolveAssemblyReference.cache
+C:\Users\Mahmut Enes Aydın\Desktop\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.AdminGiriş.resources
+C:\Users\Mahmut Enes Aydın\Desktop\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Adminİçin.resources
+C:\Users\Mahmut Enes Aydın\Desktop\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.frmTurRehberi.resources
+C:\Users\Mahmut Enes Aydın\Desktop\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Kaydol.resources
+C:\Users\Mahmut Enes Aydın\Desktop\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.KullanıcıGiriş.resources
+C:\Users\Mahmut Enes Aydın\Desktop\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Kullanıcıİçin.resources
+C:\Users\Mahmut Enes Aydın\Desktop\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Properties.Resources.resources
+C:\Users\Mahmut Enes Aydın\Desktop\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.SifremiUnuttum.resources
+C:\Users\Mahmut Enes Aydın\Desktop\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.csproj.GenerateResource.Cache
+C:\Users\Mahmut Enes Aydın\Desktop\Yeni klasör\PROJE\TurRehberi\TurRehberi\bin\Debug\TurRehberi.exe
+C:\Users\Mahmut Enes Aydın\Desktop\Yeni klasör\PROJE\TurRehberi\TurRehberi\bin\Debug\TurRehberi.pdb
+D:\Yeni klasör\PROJE\TurRehberi\TurRehberi\bin\Debug\TurRehberi.exe.config
+D:\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.exe
+D:\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.pdb
+D:\Yeni klasör\PROJE\TurRehberi\TurRehberi\bin\Debug\TurRehberi.exe
+D:\Yeni klasör\PROJE\TurRehberi\TurRehberi\bin\Debug\TurRehberi.pdb
+D:\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.csprojResolveAssemblyReference.cache
+D:\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.AdminGiriş.resources
+D:\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Adminİçin.resources
+D:\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.frmTurRehberi.resources
+D:\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Kaydol.resources
+D:\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.KullanıcıGiriş.resources
+D:\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Kullanıcıİçin.resources
+D:\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.Properties.Resources.resources
+D:\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.SifremiUnuttum.resources
+D:\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.csproj.GenerateResource.Cache
+F:\Yeni klasör\PROJE\TurRehberi\TurRehberi\bin\Debug\TurRehberi.exe.config
+F:\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.exe
+F:\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Form Dersleri\Murat Yücedağ\Yeni klasör\PROJE\TurRehberi\TurRehberi\bin\Debug\TurRehberi.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Form Dersleri\Murat Yücedağ\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Form Dersleri\Murat Yücedağ\Yeni klasör\PROJE\TurRehberi\TurRehberi\obj\Debug\TurRehberi.pdb
